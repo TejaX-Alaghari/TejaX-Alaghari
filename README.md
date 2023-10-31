@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TejaX-Alaghari
+- 👋 Hi, I’m @Teja Alaghari
 - 👀 I’m interested in HPC libraries, applications and ecosystems
 - 🌱 I’m currently learning Parallel programming
 - 💞️ I’m looking to collaborate on the space of HPC
